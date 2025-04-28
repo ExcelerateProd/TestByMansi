@@ -1,0 +1,11 @@
+# This file defines who the code owners are for TestByMansi repository
+
+# Set default rule: All files require approval from @MansiUser
+* @Yash-VEmpower
+
+# Example: Specific folders or files (optional, you can remove if not needed)
+# /docs/ @MansiUser @AnotherUser
+# /src/important-code/ @MansiUser
+
+# Example: Specific files
+# README.md @MansiUser
